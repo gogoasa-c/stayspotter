@@ -1,0 +1,6 @@
+[submodule "stayspotter-ui"]
+	path = stayspotter-ui
+	url = https://github.com/gogoasa-c/stayspotter-ui
+[submodule "stayspotter-scraper"]
+	path = stayspotter-scraper
+	url = https://github.com/gogoasa-c/stayspotter-scraper
