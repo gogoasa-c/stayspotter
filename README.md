@@ -20,23 +20,22 @@ StaySpotter is an application that simplifies the accommodation search process f
 
 ### Mobile Application
 
-Kotlin: Primary programming language for the Android app.
-Jetpack Compose: Modern toolkit for building native Android UI.
-Android Studio: Integrated development environment (IDE) for Android development.
+* Kotlin: Primary programming language for the Android app.
+* Jetpack Compose: Modern toolkit for building native Android UI.
 
 ### Backend Services
 
-Java & Spring Boot: Framework for building microservices.
-Spring Cloud: Provides tools for service discovery, configuration, and routing.
-PostgreSQL: Database management system for handling application data.
-Docker: Containerization platform for deploying microservices.
+* Java & Spring Boot: Framework for building microservices.
+* Spring Cloud: Provides tools for service discovery, configuration, and routing.
+* PostgreSQL: Database management system for handling application data.
+* Docker: Containerization platform for deploying microservices.
 
 ### Web Scraper
 
-Python: Programming language for the web scraping service.
-BeautifulSoup: Library for parsing HTML and XML documents.
-Selenium: Tool for automating web browser interactions.
-Flask: Micro web framework for exposing the scraper service as REST endpoints.
+* Python: Programming language for the web scraping service.
+* BeautifulSoup: Library for parsing HTML and XML documents.
+* Selenium: Tool for automating web browser interactions.
+* Flask: Micro web framework for exposing the scraper service as REST endpoints.
 
 ## Architecture
 
